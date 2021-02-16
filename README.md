@@ -1,11 +1,11 @@
-# single-spin-dynamics
+# Single Spin Dynamics
 Simple magnetization for a single spin
 
 # Environment (needs virtualenv)
 
-- Run in terminal: `source .venv/bin/activate`
+Run in terminal: `source .venv/bin/activate`
 
-# install requirements
+# Install requirements
 
 ```
 pip install numpy
@@ -25,4 +25,4 @@ pip install matplotlib
 
 # Running program
 
-- Run in terminal `python magnetization.py`
+Run in terminal `python magnetization.py`
